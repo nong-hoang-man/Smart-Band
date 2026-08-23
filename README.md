@@ -10,7 +10,7 @@ Dưới đây là danh sách các linh kiện chính được sử dụng trong 
 | :---: | :--- | :--- |
 | <img src="https://github.com/nong-hoang-man/Smart-Band/blob/0ffb692b3e2def4727cd6f0ba72a0ac0ddfece19/1787475286500.webp" width="150"> | **ESP32-S3 Super Mini** | Vi điều khiển chính, hỗ trợ WiFi/Bluetooth để gửi dữ liệu. |
 | <img src="https://github.com/uchiha-madara-02/smart-band/blob/main/Link%20ki%E1%BB%87n/SN-M30102-OXI-e.jpg" width="150"> | **MAX30102** | Cảm biến đo nhịp tim và nồng độ Oxy trong máu (SpO2). |
-| <img src="./Link kiện/0256654mpu6050.webp" width="150"> | **MPU6050** | Cảm biến gia tốc và con quay hồi chuyển (dùng để phát hiện té ngã). |
+| <img src="https://github.com/uchiha-madara-02/smart-band/blob/main/Link%20ki%E1%BB%87n/0256654mpu6050.webp" width="150"> | **MPU6050** | Cảm biến gia tốc và con quay hồi chuyển (dùng để phát hiện té ngã). |
 | <img src="./Link kiện/module-gy906-2.webp" width="150"> | **GY-906** | Cảm biến nhiệt độ hồng ngoại không tiếp xúc. |
 
 ---
